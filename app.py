@@ -371,9 +371,9 @@ elif page == "About the Project":
 
     st.subheader("📈 Model Evaluation")
 
-    st.write("**Accuracy:** 96.94%")
-    st.write("**ROC-AUC:** 0.9620")
-    st.write("**Diabetes Recall at 0.50 cutoff:** 68.9%")
+    st.write("**Accuracy:** 96.83%")
+    st.write("**ROC-AUC:** 0.9467")
+    st.write("**Diabetes Recall at 0.50 cutoff:** 69.0%")
 
     st.caption(
         "These results are from the held-out test set. "
